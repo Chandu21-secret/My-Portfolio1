@@ -169,7 +169,7 @@ section{
     position: relative;
     display: flex;
     justify-content: space-between;
-    width: 34.5rem;
+    width: 33.5rem;
     height: 3rem;    
     
 }
@@ -186,7 +186,7 @@ section{
     border-radius: .8rem;
     font-size: 1.8rem;
     font-weight: 600;
-    letter-spacing: .1rem;
+    letter-spacing: .5rem;
     color: var(--bg-color);
     z-index: 1;
     overflow: hidden;
